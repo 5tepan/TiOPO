@@ -1,0 +1,24 @@
+css/open-iconic-bootstrap.min.css, status UnknownError
+css/animate.css, status UnknownError
+css/owl.carousel.min.css, status UnknownError
+css/owl.theme.default.min.css, status UnknownError
+css/magnific-popup.css, status UnknownError
+css/aos.css, status UnknownError
+css/ionicons.min.css, status UnknownError
+css/bootstrap-datepicker.css, status UnknownError
+css/jquery.timepicker.css, status UnknownError
+css/flaticon.css, status UnknownError
+css/icomoon.css, status UnknownError
+css/style.css, status UnknownError
+index.html, status UnknownError
+about.html, status UnknownError
+work.html, status UnknownError
+pricing.html, status UnknownError
+blog.html, status UnknownError
+contact.html, status UnknownError
+#, status UnknownError
+../links/502gateaway502.php, status UnknownError
+../links/access401unauthorized.php, status UnknownError
+blog-single.html, status UnknownError
+../links/deny403forbidden.php, status UnknownError
+quantity = 23, date = 07.10.2021 12:26:39

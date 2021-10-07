@@ -1,0 +1,14 @@
+D:\ТиОПО\CheckingForBrokenLinks\bin\Debug\netcoreapp3.1\CheckingForBrokenLinks.exe
+D:\ТиОПО\CheckingForBrokenLinks\bin\Debug\netcoreapp3.1\CheckingForBrokenLinks.deps.json
+D:\ТиОПО\CheckingForBrokenLinks\bin\Debug\netcoreapp3.1\CheckingForBrokenLinks.runtimeconfig.json
+D:\ТиОПО\CheckingForBrokenLinks\bin\Debug\netcoreapp3.1\CheckingForBrokenLinks.runtimeconfig.dev.json
+D:\ТиОПО\CheckingForBrokenLinks\bin\Debug\netcoreapp3.1\CheckingForBrokenLinks.dll
+D:\ТиОПО\CheckingForBrokenLinks\bin\Debug\netcoreapp3.1\CheckingForBrokenLinks.pdb
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.AssemblyInfoInputs.cache
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.AssemblyInfo.cs
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.csproj.CoreCompileInputs.cache
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.dll
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.pdb
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.genruntimeconfig.cache
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.csproj.AssemblyReference.cache
+D:\ТиОПО\CheckingForBrokenLinks\obj\Debug\netcoreapp3.1\CheckingForBrokenLinks.GeneratedMSBuildEditorConfig.editorconfig
